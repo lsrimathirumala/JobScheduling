@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "c:\\msys64/ucrt64/bin/g++", // Change this to the path of g++ on your system
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64" // Adjust based on your OS: windows-gcc-x64, macos-gcc-x64
+        }
+    ],
+    "version": 4
+}
